@@ -41,7 +41,7 @@
       else probe(el, exts.slice(1));
     }).catch(function(){ probe(el, exts.slice(1)); });
   }
-  for (var t=0;t<tracks.length;t++){ probe(tracks[t], [".mp3", ".m4a"]); }
+  for (var t=0;t<tracks.length;t++){ probe(tracks[t], [".mp3", ".m4a", ".webm"]); }
 
   // lecture par la voix de l'appareil
   var synth = window.speechSynthesis, stopBtn = $("stop");
