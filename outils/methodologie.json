@@ -1,0 +1,315 @@
+{
+  "reference": "https://erjb-web.github.io/#recherche/methodes",
+  "version": "21 octobre 2026 · c28d605",
+  "fr": {
+    "question": "Comment s'organise la réponse intersectorielle aux besoins sociaux et de soins de santé concomitants des différents profils de personnes aînées vivant à domicile ?",
+    "case": "EXEMPLE FICTIF · Mme Protocole, 72 ans",
+    "caseText": "Mobilité, alimentation, isolement et logement : une même personne peut avoir plusieurs besoins. La présence de services ne prouve ni leur mobilisation ni une réponse adaptée.",
+    "levels": [
+      "O1 · Personnes",
+      "O2 · Territoires",
+      "O3 · Organisations"
+    ],
+    "gaps": [
+      "Quels besoins sont documentés ensemble chez les mêmes personnes ?",
+      "Quelle offre est potentiellement accessible ?",
+      "Quels liens sont effectivement mobilisés, et pourquoi ?"
+    ],
+    "methods": "02  Méthodologie proposée",
+    "status": "PROTOCOLE PROVISOIRE · terrains, partenariats et autorisations à confirmer",
+    "population": "personnes aînées vivant à domicile présentant des besoins sociaux et de soins de santé concomitants susceptibles de nécessiter une réponse intersectorielle en première ligne.",
+    "cards": [
+      {
+        "title": "O1 · Profils de besoins",
+        "metric": "Revue de portée · 4 bases",
+        "steps": [
+          "recherche documentaire systématique, critères d’admissibilité explicites et sélection par deux évaluateurs indépendants.",
+          "populations, contexte de première ligne, définitions des besoins sociaux et de soins de santé, instruments, concomitance chez les mêmes personnes et profils rapportés.",
+          "revue de portée selon JBI ; compte rendu PRISMA-ScR. Synthèse descriptive des définitions, besoins associés et configurations documentées."
+        ],
+        "product": "Profils étayés + vignettes"
+      },
+      {
+        "title": "O2 · Ressources et accessibilité",
+        "metric": "6 secteurs · analyse écologique",
+        "steps": [
+          "repérage systématique des ressources admissibles dans les sources retenues ; règles d’inclusion et de dédoublonnage explicites.",
+          "localisation, secteur, besoins concernés, disponibilité documentée, modalités d’accès, admissibilité, horaires et capacité lorsqu’ils sont renseignés.",
+          "étude cartographique et spatiale dans R et QGIS ; distribution, disponibilité, diversité, complémentarité et accessibilité territoriale."
+        ],
+        "product": "Atlas + matrice besoins–ressources–territoire"
+      },
+      {
+        "title": "O3 · Réseaux et explications",
+        "metric": "Questionnaire unique · 12 mois · réseaux entiers et égocentrés",
+        "steps": [
+          "un questionnaire relationnel unique, administré une fois aux acteurs des organisations, sur les 12 derniers mois .",
+          "matrice des relations entre toutes les organisations du périmètre de chaque territoire ; composition, structure et fonctionnement, selon la couverture obtenue.",
+          "entourage des organisations ou équipes focales, dont le CLSC ; taille, diversité et liens ego–alter. Les liens alter–alter exigent un recueil explicite."
+        ],
+        "product": "Réseaux contextualisés + mécanismes"
+      }
+    ],
+    "integration": "O1 : profils · O2 : ressources · O3 : réseaux. ARS quantitative observationnelle rétrospective, dans plusieurs territoires de CLSC contrastés.",
+    "results": "03  Produits attendus · aucun résultat de thèse présenté",
+    "impact": "04  Retombées visées",
+    "impactText": "Éclairer les écarts entre besoins, offre accessible et aide mobilisée ; discuter des pistes d’organisation avec les personnes concernées et les acteurs du territoire. Aucun bénéfice individuel garanti.",
+    "warning": "Contact ≠ collaboration ≠ aide reçue ≠ besoin résolu. Les chiffres du 211 et les cartes de contexte sont illustratifs ; ils ne remplacent pas la collecte O3.",
+    "source": "Brewster, Tan, & Yuan (2019). Health Services Research, 54(6), 1246–1254. doi:10.1111/1475-6773.13206 · AHRQ (2014), Care Coordination Measures Atlas, ch. 4.",
+    "partial": "Méthodologie actualisée en français, version de référence. Traduction autochtone à valider ; aucun nouveau texte scientifique n’est inventé.",
+    "contextNeeds": [
+      "Besoins concomitants",
+      "Besoins sociaux et de soins de santé présents chez les mêmes personnes.",
+      "Personnes aînées vivant à domicile"
+    ],
+    "contextPopulation": "personnes aînées vivant à domicile présentant des besoins sociaux et de soins de santé concomitants susceptibles de nécessiter une réponse intersectorielle en première ligne."
+  },
+  "en": {
+    "question": "How is the intersectoral response to concurrent social and healthcare needs organized for different profiles of older people living at home?",
+    "case": "FICTIONAL EXAMPLE · Ms Protocole, 72",
+    "caseText": "Mobility, food, isolation and housing: one person may have several needs. The presence of services does not establish their mobilisation or an appropriate response.",
+    "levels": [
+      "O1 · People",
+      "O2 · Territories",
+      "O3 · Organisations"
+    ],
+    "gaps": [
+      "Which needs are documented together in the same people?",
+      "Which services are potentially accessible?",
+      "Which relationships are actually mobilised, and why?"
+    ],
+    "methods": "02  Proposed methods",
+    "status": "PROVISIONAL PROTOCOL · sites, partnerships and approvals to be confirmed",
+    "population": "older people living at home with concurrent social and healthcare needs that may require an intersectoral response in primary care.",
+    "cards": [
+      {
+        "title": "O1 · Needs profiles",
+        "metric": "Scoping review · 4 databases",
+        "steps": [
+          "systematic searches, explicit eligibility criteria and two independent reviewers.",
+          "populations, primary-care context, social and healthcare needs, definitions, instruments, co-occurrence in the same people and reported profiles.",
+          "JBI scoping review, reported with PRISMA-ScR; descriptive synthesis of definitions, associated needs and documented configurations."
+        ],
+        "product": "Supported profiles + vignettes"
+      },
+      {
+        "title": "O2 · Resources and access",
+        "metric": "6 sectors · ecological analysis",
+        "steps": [
+          "systematic identification of eligible resources in selected sources; explicit inclusion and deduplication rules.",
+          "location, sector, relevant needs, documented availability, access conditions, eligibility, opening hours and capacity when available.",
+          "cartographic and spatial study in R and QGIS; distribution, availability, diversity, complementarity and territorial accessibility."
+        ],
+        "product": "Atlas + needs–resources–territory matrix"
+      },
+      {
+        "title": "O3 · Networks and explanations",
+        "metric": "One questionnaire · 12 months · whole and ego networks",
+        "steps": [
+          "one relational questionnaire administered once to organizational actors about the previous 12 months.",
+          "ties among all organizations within each territorial boundary; composition, structure and operating arrangements, subject to coverage.",
+          "partners of focal organizations or teams, including the CLSC; size, diversity and ego–alter ties. Alter–alter ties require explicit collection."
+        ],
+        "product": "Contextualised networks + mechanisms"
+      }
+    ],
+    "integration": "O1: profiles · O2: resources · O3: networks. Retrospective quantitative observational SNA across several contrasting CLSC territories.",
+    "results": "03  Expected outputs · no thesis findings presented",
+    "impact": "04  Intended contribution",
+    "impactText": "Inform gaps between needs, accessible provision and mobilised help; discuss organisational options with the people concerned and territorial stakeholders. No individual benefit is guaranteed.",
+    "warning": "Contact ≠ collaboration ≠ help received ≠ need resolved. The 211 figures and contextual maps are illustrative; they do not replace O3 data collection.",
+    "source": "Brewster, Tan, & Yuan (2019). Health Services Research, 54(6), 1246–1254. doi:10.1111/1475-6773.13206 · AHRQ (2014), Care Coordination Measures Atlas, ch. 4.",
+    "contextNeeds": [
+      "Concurrent needs",
+      "Social and healthcare needs occurring in the same people.",
+      "Older people living at home"
+    ],
+    "contextPopulation": "older people living at home with concurrent social and healthcare needs that may require an intersectoral response in primary care."
+  },
+  "es": {
+    "question": "¿Cómo se organiza la respuesta intersectorial a las necesidades sociales y de atención de salud concomitantes de los distintos perfiles de personas mayores que viven en su domicilio?",
+    "case": "EJEMPLO FICTICIO · Sra. Protocole, 72 años",
+    "caseText": "Movilidad, alimentación, aislamiento y vivienda: una persona puede tener varias necesidades. La presencia de servicios no demuestra su movilización ni una respuesta adecuada.",
+    "levels": [
+      "O1 · Personas",
+      "O2 · Territorios",
+      "O3 · Organizaciones"
+    ],
+    "gaps": [
+      "¿Qué necesidades se documentan conjuntamente en las mismas personas?",
+      "¿Qué oferta es potencialmente accesible?",
+      "¿Qué relaciones se movilizan realmente y por qué?"
+    ],
+    "methods": "02  Metodología propuesta",
+    "status": "PROTOCOLO PROVISIONAL · lugares, alianzas y autorizaciones por confirmar",
+    "population": "personas mayores que viven en su domicilio con necesidades sociales y de atención de salud concomitantes que pueden requerir respuesta intersectorial en atención primaria.",
+    "cards": [
+      {
+        "title": "O1 · Perfiles de necesidades",
+        "metric": "Revisión de alcance · 4 bases",
+        "steps": [
+          "búsqueda sistemática, criterios explícitos y dos evaluadores independientes.",
+          "poblaciones, contexto de atención primaria, necesidades sociales y sanitarias, definiciones, instrumentos, concurrencia individual y perfiles publicados.",
+          "revisión de alcance JBI y reporte PRISMA-ScR; síntesis descriptiva de definiciones, necesidades asociadas y configuraciones documentadas."
+        ],
+        "product": "Perfiles fundamentados + viñetas"
+      },
+      {
+        "title": "O2 · Recursos y accesibilidad",
+        "metric": "6 sectores · análisis ecológico",
+        "steps": [
+          "identificación sistemática de recursos admisibles en las fuentes seleccionadas; reglas explícitas de inclusión y eliminación de duplicados.",
+          "localización, sector, necesidades, disponibilidad documentada, acceso, admisibilidad, horarios y capacidad cuando consten.",
+          "estudio cartográfico y espacial en R y QGIS; distribución, disponibilidad, diversidad, complementariedad y accesibilidad territorial."
+        ],
+        "product": "Atlas + matriz necesidades–recursos–territorio"
+      },
+      {
+        "title": "O3 · Redes y explicaciones",
+        "metric": "Un cuestionario · 12 meses · redes completas y egocentradas",
+        "steps": [
+          "un único cuestionario relacional administrado una vez sobre los últimos 12 meses.",
+          "relaciones entre todas las organizaciones del perímetro territorial; composición, estructura y funcionamiento según la cobertura lograda.",
+          "entorno de las organizaciones o equipos focales, incluido el CLSC; tamaño, diversidad y vínculos ego–alter. Los vínculos alter–alter requieren recogida explícita."
+        ],
+        "product": "Redes contextualizadas + mecanismos"
+      }
+    ],
+    "integration": "O1: perfiles · O2: recursos · O3: redes. ARS cuantitativa observacional retrospectiva en varios territorios de CLSC contrastados.",
+    "results": "03  Productos esperados · sin resultados de tesis",
+    "impact": "04  Contribución prevista",
+    "impactText": "Comprender las brechas entre necesidades, oferta accesible y ayuda movilizada; discutir opciones organizativas con las personas implicadas y los actores del territorio. Sin beneficio individual garantizado.",
+    "warning": "Contacto ≠ colaboración ≠ ayuda recibida ≠ necesidad resuelta. Las cifras del 211 y los mapas contextuales son ilustrativos; no sustituyen la recogida de datos de O3.",
+    "source": "Brewster, Tan, & Yuan (2019). Health Services Research, 54(6), 1246–1254. doi:10.1111/1475-6773.13206 · AHRQ (2014), Care Coordination Measures Atlas, ch. 4.",
+    "contextNeeds": [
+      "Necesidades concomitantes",
+      "Necesidades sociales y de atención de salud presentes en las mismas personas.",
+      "Personas mayores en su domicilio"
+    ],
+    "contextPopulation": "personas mayores que viven en su domicilio con necesidades sociales y de atención de salud concomitantes que pueden requerir respuesta intersectorial en atención primaria."
+  },
+  "zh": {
+    "question": "如何组织跨部门响应，以满足居家老年人不同特征类型同时存在的社会需求和医疗照护需求？",
+    "case": "虚构示例 · Protocole女士，72岁",
+    "caseText": "出行、饮食、社会孤立与住房：同一个人可能有多种需求。服务的存在并不证明服务已被动员，也不证明回应适当。",
+    "levels": [
+      "O1 · 个体",
+      "O2 · 地区",
+      "O3 · 组织"
+    ],
+    "gaps": [
+      "哪些需求在同一人身上被共同记录？",
+      "哪些服务具有潜在可及性？",
+      "哪些组织关系实际被动员，原因是什么？"
+    ],
+    "methods": "02  拟议研究方法",
+    "status": "暂定方案 · 研究地点、合作关系与授权有待确认",
+    "population": "居家老年人，同时存在社会需求和医疗照护需求，可能需要基层医疗中的跨部门响应。",
+    "cards": [
+      {
+        "title": "O1 · 需求组合",
+        "metric": "范围综述 · 4个数据库",
+        "steps": [
+          "系统检索、明确纳入标准，由两名评审者独立筛选。",
+          "人群、基层医疗背景、社会与医疗照护需求、定义、测量工具、同一个体中的并存情况及已报告的特征类型。",
+          "依照JBI开展范围综述，按PRISMA-ScR报告；描述性综合定义、相关需求和已有证据支持的组合。"
+        ],
+        "product": "有证据支持的需求组合与情境短例"
+      },
+      {
+        "title": "O2 · 资源与可及性",
+        "metric": "6个部门 · 生态与空间分析",
+        "steps": [
+          "在选定来源中系统识别合格资源，明确纳入和去重规则。",
+          "位置、部门、需求领域、有记录的可用性、获取条件、资格、时段和已知容量。",
+          "在R和QGIS中开展制图与空间研究，描述分布、可用性、多样性、互补性和地区可及性。"
+        ],
+        "product": "资源图集与需求–资源–地区矩阵"
+      },
+      {
+        "title": "O3 · 网络及其解释",
+        "metric": "单一问卷 · 12个月 · 整体与自我中心网络",
+        "steps": [
+          "一次性关系问卷，回顾过去12个月；辅以少量开放题，不另行开展访谈。.",
+          "收集各辖区界定范围内所有组织间的关系，依据覆盖程度分析组成、结构与运作。",
+          "以包括CLSC在内的组织或团队为中心，分析规模、多样性及ego–alter关系；alter–alter关系须专门采集。"
+        ],
+        "product": "情境化组织网络与机制解释"
+      }
+    ],
+    "integration": "O1：类型 · O2：资源 · O3：网络。多个差异化CLSC辖区的回顾性定量观察网络研究。",
+    "results": "03  预期产出 · 此处不展示博士研究结果",
+    "impact": "04  预期贡献",
+    "impactText": "认识需求、可及供给与实际动员帮助之间的差距；与相关人员及地区行动者讨论组织改进方向。不保证个人获益。",
+    "warning": "接触 ≠ 合作 ≠ 获得帮助 ≠ 需求得到解决。211数字与背景地图均为示例，不能替代O3数据收集。",
+    "source": "Brewster, Tan, & Yuan (2019). Health Services Research, 54(6), 1246–1254. doi:10.1111/1475-6773.13206 · AHRQ (2014), Care Coordination Measures Atlas, ch. 4.",
+    "contextNeeds": [
+      "并存需求",
+      "同一个人同时存在社会需求和医疗照护需求。",
+      "居家老年人"
+    ],
+    "contextPopulation": "居家老年人，同时存在社会需求和医疗照护需求，可能需要基层医疗中的跨部门响应。"
+  },
+  "ar": {
+    "question": "كيف تُنظَّم الاستجابة المشتركة بين القطاعات للاحتياجات الاجتماعية واحتياجات الرعاية الصحية المتزامنة لمختلف أنماط كبار السن الذين يعيشون في منازلهم؟",
+    "case": "مثال خيالي · السيدة بروتوكول، 72 عاماً",
+    "caseText": "التنقل والغذاء والعزلة والسكن: قد تتعدد احتياجات الشخص نفسه. وجود الخدمات لا يثبت استخدامها أو ملاءمة الاستجابة.",
+    "levels": [
+      "O1 · الأشخاص",
+      "O2 · المناطق",
+      "O3 · المنظمات"
+    ],
+    "gaps": [
+      "ما الاحتياجات الموثقة معاً لدى الأشخاص أنفسهم؟",
+      "ما الخدمات التي يمكن الوصول إليها؟",
+      "ما العلاقات المستخدمة فعلياً، ولماذا؟"
+    ],
+    "methods": "02  المنهجية المقترحة",
+    "status": "بروتوكول مبدئي · المواقع والشراكات والتصاريح رهن التأكيد",
+    "population": "كبار السن في منازلهم ذوو احتياجات اجتماعية ورعاية صحية متزامنة قد تستلزم استجابة بين القطاعات في الرعاية الأولية.",
+    "cards": [
+      {
+        "title": "O1 · أنماط الاحتياجات",
+        "metric": "مراجعة نطاقية · 4 قواعد بيانات",
+        "steps": [
+          "بحث منهجي ومعايير أهلية واضحة ومقيّمان مستقلان.",
+          "السكان وسياق الرعاية الأولية والاحتياجات الاجتماعية والصحية وتعريفاتها وأدواتها وتزامنها لدى الشخص نفسه والأنماط المنشورة.",
+          "مراجعة نطاق وفق JBI وتقرير PRISMA-ScR؛ توليف وصفي للتعريفات والاحتياجات والتكوينات الموثقة."
+        ],
+        "product": "أنماط مسندة بالأدلة وأمثلة توضيحية"
+      },
+      {
+        "title": "O2 · الموارد وإمكانية الوصول",
+        "metric": "6 قطاعات · تحليل بيئي ومكاني",
+        "steps": [
+          "تحديد منهجي للموارد المؤهلة مع قواعد صريحة للإدراج وإزالة التكرارات.",
+          "الموقع والقطاع والاحتياجات والتوافر الموثق وشروط الوصول والأهلية والساعات والطاقة عند توفرها.",
+          "دراسة خرائطية ومكانية في R وQGIS للتوزيع والتوافر والتنوع والتكامل وإمكانية الوصول المكانية."
+        ],
+        "product": "أطلس ومصفوفة الاحتياجات والموارد والمناطق"
+      },
+      {
+        "title": "O3 · الشبكات وتفسيرها",
+        "metric": "استبيان واحد · 12 شهرا · شبكات كاملة وشبكات الأنا",
+        "steps": [
+          "استبيان علاقات واحد يطبق مرة واحدة عن الأشهر الاثني عشر الماضية؛ أسئلة مفتوحة مكملة دون مقابلات منفصلة..",
+          "علاقات جميع المنظمات داخل حدود كل منطقة؛ التكوين والبنية والعمل بحسب التغطية المحققة.",
+          "محيط المنظمات أو الفرق البؤرية ومنها CLSC؛ الحجم والتنوع وروابط الأنا بالآخرين. تتطلب الروابط بين الآخرين جمعا صريحا."
+        ],
+        "product": "شبكات موضوعة في سياقها وتفسير الآليات"
+      }
+    ],
+    "integration": "O1 الأنماط · O2 الموارد · O3 الشبكات. تحليل شبكات كمي رصدي استعادي في عدة مناطق CLSC متباينة.",
+    "results": "03  المخرجات المتوقعة · لا تُعرض نتائج للأطروحة",
+    "impact": "04  الإسهام المنشود",
+    "impactText": "فهم الفجوات بين الاحتياجات والعرض المتاح والمساعدة المستخدمة، ومناقشة خيارات التنظيم مع المعنيين والجهات المحلية. لا ضمان لفائدة فردية.",
+    "warning": "الاتصال ≠ التعاون ≠ تلقي المساعدة ≠ تلبية الحاجة. أرقام 211 وخرائط السياق أمثلة توضيحية، ولا تحل محل جمع بيانات O3.",
+    "source": "Brewster, Tan, & Yuan (2019). Health Services Research, 54(6), 1246–1254. doi:10.1111/1475-6773.13206 · AHRQ (2014), Care Coordination Measures Atlas, ch. 4.",
+    "contextNeeds": [
+      "احتياجات متزامنة",
+      "احتياجات اجتماعية ورعاية صحية موجودة لدى الأشخاص أنفسهم.",
+      "كبار السن الذين يعيشون في منازلهم"
+    ],
+    "contextPopulation": "كبار السن في منازلهم ذوو احتياجات اجتماعية ورعاية صحية متزامنة قد تستلزم استجابة بين القطاعات في الرعاية الأولية."
+  }
+}
